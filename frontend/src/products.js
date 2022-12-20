@@ -1,7 +1,7 @@
 const products = [
   
     {
-        '_id': 2,
+        '_id': "2",
         'name':'Mango',
         'image':'/images/mango.jpeg',
         'description':'Ekdom fresh from Kola Bagan',
@@ -11,7 +11,7 @@ const products = [
         'reviews':24,
     },
     {
-        '_id': 3,
+        '_id': "3",
         'name':'Grape',
         'image':'/images/grape.jpeg',
         'description':'Ekdom grape fresh from Kola Bagan',
@@ -21,7 +21,7 @@ const products = [
         'reviews':13,
     },
     {
-        '_id': 4,
+        '_id': "4",
         'name':'Blue Berry',
         'image':'/images/bberry.jpeg',
         'description':'Ekdom Blueberry fresh from Kola Bagan',
